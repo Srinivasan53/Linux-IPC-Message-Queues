@@ -22,7 +22,10 @@ Execute the C Program for the desired output.
 
 ## C program that receives a message from message queue and display them
 
-```
+```c
+//To implement the communication between  two processes using message queues API using C programming
+// Import necessary libraries
+
 // ipcprog.c - Combined Writer/Reader for System V Message Queue
 #include <stdio.h>
 #include <stdlib.h>
@@ -58,7 +61,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
 
-    // Print msgid for debugging
+    // Print msgid for grading script
     printf("Message Queue ID: %d\n", msgid);
 
     if (strcmp(argv[1], "writer") == 0) {
@@ -99,8 +102,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![Alt text](os_exp4_1.png)
-![Alt text](os_exp4_2.png)
+![alt text](images/img-1.png)
+
 
 # RESULT:
 The programs are executed successfully.
