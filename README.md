@@ -94,7 +94,7 @@ int main()
 ## OUTPUT
 
 
-<img width="1534" height="675" alt="Screenshot 2025-10-15 143038" src="https://github.com/user-attachments/assets/8b3bc88b-af88-43f3-9d86-0e5223334c22" />
+<img width="496" height="269" alt="Screenshot at 2025-11-16 05-35-35" src="https://github.com/user-attachments/assets/0300b064-47bf-441d-aa7f-e63b1b8a08b4" />
 
 
 
